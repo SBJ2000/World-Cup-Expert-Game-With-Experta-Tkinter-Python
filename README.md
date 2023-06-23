@@ -35,3 +35,13 @@
 After installing the environement, you can now enjoy running and using the application throw this interafce:
 
 ![Front End](https://github.com/SBJ2000/World-Cup-Expert-Game-With-Experta-Tkinter-Python/blob/main/Images/FrontEnd.png)
+
+## Conclusion
+
+In conclusion, the "World-Cup-Expert-Game-With-Experta-Tkinter-Python" project is an expert system developed in the field of Artificial Intelligence and Expert Systems. It utilizes a domain-specific knowledge base and an inference engine to simulate reasoning. The objective of the application is to guess the national team the player is thinking of in the context of the World Cup. It achieves this by asking a series of questions to the player, facilitated by an AI.
+
+The project is developed using Python programming language with the tkinter library for the frontend interface and experta library for the inference engine. It is important to have Python installed on your system along with the required libraries.
+
+To install the necessary dependencies, you can use the pip package manager to install the experta and tkinter libraries. Once the dependencies are installed, you can run the application and enjoy the interactive interface to guess the national team.
+
+Overall, this project demonstrates the application of expert systems and inference engines in the context of a World Cup guessing game, providing an engaging and interactive experience for users.
